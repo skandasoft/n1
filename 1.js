@@ -1,4 +1,4 @@
-// sample js file
+// sample js file - changes from web
 const API_KEY = '{SECURE_API_KEY}';
 
 const makeAPICall = function (key) {
