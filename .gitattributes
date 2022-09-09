@@ -1,8 +1,6 @@
 # Git Attributes
-* text=auto
 *.jpg diff=exif
 *.docx diff=word
 .* export-ignore
-tests export-ignore
 # ignore updated
 .gitattributes text
