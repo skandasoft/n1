@@ -1,6 +1,9 @@
 # Git Attributes
+* diff
+*.txt diff
 *.jpg diff=exif
 *.docx diff=word
 .* export-ignore
 # ignore updated
-.gitattributes text
+.gitattributes diff
+*.js filter=updateAPIKey
